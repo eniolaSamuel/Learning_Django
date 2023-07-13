@@ -1,0 +1,19 @@
+.main-container{
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 2px solid #86c2e8
+}
+
+.main-container h1{
+    color: aqua;
+    font-weight: bolder;
+    margin-left: 130px
+}
+
+.main-container p{
+    color: aqua;
+    font-weight: bolder;
+    margin-left: 200px
+}
+
